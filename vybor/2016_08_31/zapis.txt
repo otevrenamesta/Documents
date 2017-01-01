@@ -1,1 +1,43 @@
-xx
+Přítomni:
+  * Ladislav Nešněra
+  * Marcel Kolaja
+  * Michal Šmarda
+  * Ondřej Profant
+  * Viktor Čahoj
+
+Dohoda na řešení programu podle priorit.
+
+1. Redmine
+  * https://ukoly.openalt.org/
+  * AI: Laďa vytvoří strukturu projektů pro OM, výbor podá zpětnou vazbu
+2. komunikace uvnitř výboru
+  * JabberID:
+    - Marcel: marcel@kolaja.eu
+    - Ondřej: keddie@jabber.cz
+    - Michal: založí
+    - Viktor: vcahoj@jabbim.cz
+    - Laďa:  nesnera@jabber.org
+3. jednání výboru
+  * veřejná
+4. účetnictví
+  * AI: Laďa pošle podklady
+5. zájemci o členství
+  * o žádných nových nevíme
+6. pověření výborem k úhradě odměn
+  * každý si smlouvu vytiskne a pošle Marcelovi
+  * smlouvu s Marcelem musí podepsat někdo jiný a výbor ho k tomu musí pověřit
+  * návrh usnesení o pověření:
+    "Výbor pověřuje člena výboru Ladislava Nešněru k podpisu smlouvy o výkonu
+    funkce s předsedou výboru Marcelem Kolajou."
+    - pro: O. Profant, M. Šmarda, M. Kolaja, V. Čahoj, L. Nešněra
+    - proti: nikdo
+    - zdržel se: nikdo
+    - usnesení bylo přijato
+7. registr smluv
+  * Jak se dostat k cíli?
+    - Ondra: v mailu 24. 8. navrhuje postup opírající se o veřejnou zákazku
+    - Marcel: zdůrazňuje potřebu rozpočtu
+    - AI: pošle prvotní návrh rozpočtu
+8. různé
+  * Mumble schůze pravidelně nebo nahodile?
+    - pravidelně jednou za 14 dní
