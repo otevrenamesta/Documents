@@ -1,0 +1,48 @@
+agenda:
+  1. otevřené AI
+    * Laďa: založení účtu ve FlexiBee
+    * Ondřej: vytvoří specifikaci výběrového řízení na účetní firmu
+    * Marcel: zapracuje připomínky výboru a pošle novou verzi ke schválení
+    * Ondřej: vytvoří prvotní návrh projektu registr smluv pro příští rok
+  2. smlouvy o výkonu funkce
+  3. výplata odměn za výkon funkce
+  4. převedení domény
+  5. stav úhrad
+  6. stanovy
+  7. různé
+    * wiki
+    * kde v Praze Redmine
+      - původně na magistrátu, existuje srovnávačka
+      - stále se uvažuje na Praha 7
+
+přitomni:
+  * Marcel Kolaja
+  * Ladislav Nešněra
+  * Ondřej Profant
+
+zápis:
+1. otevřené AI
+  * Laďa: založení účtu ve FlexiBee
+    - Laďa založil, ale ještě nám musí dát přístup
+  * Ondřej: vytvoří specifikaci výběrového řízení na účetní firmu
+    - žádný pokrok
+  * Marcel: zapracuje připomínky výboru k rozpočtu a pošle novou verzi ke schválení
+    - částky upraveny, ještě potřeba přesunout projekty do jednoho listu a odeslat výboru ke schválení
+  * Ondřej: vytvoří prvotní návrh projektu registr smluv pro příští rok
+    - žádný pokrok
+2. smlouvy o výkonu funkce
+  * podepsáno s Ladislavem Nešněrou, Marcelem Kolajou, ostatní chybí
+  * AI: Ondřej, Viktor, Michal: podepsat a odeslat smlouvu o výkonu funkce na adresu sídla spolku
+3. výplata odměn za výkon funkce
+  * jak danit? daní příjemce
+  * AI: všichni: do 26.12. vykázat v Redmine práci tak, aby se dala proplatit
+4. převedení domény
+  * Laďa zaplatil prodloužení, ale doménu ještě nepřevedl
+  * AI: Laďa převede doménu
+5. stav úhrad
+  * dnes zaplatila Praha 5 a Brno, tzn. všichni zaplatili
+6. stanovy
+  * na soudu vše aktualizováno
+7. různé
+  * wiki
+  * kde v Praze Redmine
