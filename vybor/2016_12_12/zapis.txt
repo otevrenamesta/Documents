@@ -1,0 +1,39 @@
+agenda:
+  1. otevřené AI
+    * Redmine: Laďa vytvoří strukturu projektů pro OM, výbor podá zpětnou vazbu
+    * účetnictví: Laďa pošle podklady
+    * rozpočet: Marcel pošle prvotní návrh rozpočtu
+  2. registr smluv
+  3. smlouvy o výkonu funkce
+  4. výplata odměn za výkon funkce
+  5. různé
+    * převedení domény
+    * stav úhrad
+    * stanovy
+
+Přítomni:
+  * Ladislav Nešněra
+  * Marcel Kolaja
+  * Ondřej Profant
+
+zápis:
+  1. otevřené AI
+    * Redmine: hotovo
+    * účetnictví
+      - Laďa provedl rešerši
+      - Laďa preferuje FlexiBee
+      - FlexiBee je z profesionálních účetních programů jediný multiplatformní software, pravděpodobně i nejlevnější
+      - Piráti mají funkční webový přístup (=> transparentní účetnictví)
+      - v současnosti by pro nás bylo FlexiBee zdarma
+      - kdo účetnictví povede?
+      - výběrové řízení na účetní firmu
+      - jak popsat vstupy pro výběrové řízení?
+      - AI: Laďa: založení účtu ve FlexiBee
+      - AI: Ondřej: vytvoří specifikaci výběrového řízení na účetní firmu
+    * rozpočet
+      - Marcel poslal prvotní návrh
+      - AI: Marcel zapracuje připomínky výboru a pošle novou verzi ke schválení
+  2. registr smluv
+    * Ondřej v létě jednal s Jiřím Skuhrovcem a výsledkem je návrh
+    * Ondřej řešil software pro oběh dokumentů
+    * AI: Ondřej vytvoří prvotní návrh projektu pro příští rok
