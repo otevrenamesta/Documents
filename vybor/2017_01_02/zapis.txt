@@ -1,0 +1,55 @@
+agenda:
+1. otevřené AI
+  * Laďa: dodání přístupu členům výboru do FlexiBee
+  * Ondřej: vytvoří specifikaci výběrového řízení na účetní firmu
+  * Marcel: zapracuje do rozpočtu připomínky výboru a pošle novou verzi ke schválení
+  * Ondřej: vytvoří prvotní návrh projektu registr smluv pro příští rok
+  * Ondřej, Viktor, Michal: podepsat a odeslat smlouvu o výkonu funkce na adresu sídla spolku
+  * všichni: do 26.12.2016 vykázat v Redmine práci tak, aby se dala proplatit
+  * Laďa: převede doménu
+2. účetní závěrka
+3. členská schůze 2017
+4. převedení finančních prostředků na spořící účet nebo termínovaný vklad
+5. zapsání účasti na jednání výboru:
+  * 31.8.2016: https://ukoly.openalt.org/issues/3921
+  * 12.12.2016: https://ukoly.openalt.org/issues/3923
+  * 19.12.2016: https://ukoly.openalt.org/issues/3927
+  * 2.1.2017: https://ukoly.openalt.org/issues/3929
+
+přitomni:
+  * Marcel Kolaja
+  * Ondřej Profant
+
+zápis:
+1. otevřené AI
+  * Laďa: dodání přístupu členům výboru do FlexiBee
+    - Laďa není přítomen
+  * Ondřej: vytvoří specifikaci výběrového řízení na účetní firmu
+    - http://ukoly.openalt.org/issues/3931?issue_count=33&issue_position=1&next_issue_id=3929
+    - Ondřej pošle ke schválení výborem zadání výběrového řízení
+  * Marcel: zapracuje do rozpočtu připomínky výboru a pošle novou verzi ke schválení
+    - Marcel aktualizoval, Ondřej nemá připomínky
+    - Marcel pošle ke schválení výborem
+  * Ondřej: vytvoří prvotní návrh projektu registr smluv pro příští rok
+    - žádný pokrok
+    - http://ukoly.openalt.org/issues/3933
+  * Ondřej, Viktor, Michal: podepsat a odeslat smlouvu o výkonu funkce na adresu sídla spolku:
+    - Ondřej neposlal :(, http://ukoly.openalt.org/issues/3932
+    - ostatní také neposlali
+  * všichni: do 26.12.2016 vykázat v Redmine práci tak, aby se dala proplatit
+    - Marcel vykázal
+    - Ondřej vykázal částečně
+    - ostatní nevykázali nic
+  * Laďa: převede doménu
+    - Laďa není přítomen
+2. účetní závěrka
+  * schvaluje výbor
+3. členská schůze 2017
+  * kdy uspořádat?
+4. převedení finančních prostředků na spořící účet nebo termínovaný vklad
+  * Marcel předloží návrh
+5. zapsání účasti na jednání výboru:
+  * 31.8.2016: https://ukoly.openalt.org/issues/3921
+  * 12.12.2016: https://ukoly.openalt.org/issues/3923
+  * 19.12.2016: https://ukoly.openalt.org/issues/3927
+  * 2.1.2017: https://ukoly.openalt.org/issues/3929
