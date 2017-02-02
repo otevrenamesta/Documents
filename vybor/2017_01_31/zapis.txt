@@ -1,0 +1,173 @@
+agenda:
+1. provedená hlasování per rollam
+  * výběrové řízení na vedení účetnictví
+  * rozpočet na rok 2017
+  * https://gitlab.com/otevrenamesta/documents/blob/master/rozpocet/2017/rozpocet.ods
+2. otevřené AI
+  * Laďa: dodání přístupu členům výboru do FlexiBee
+  * Ondřej: pošle ke schválení výborem zadání výběrového řízení na účetní firmu
+  * Marcel: pošle ke schválení výborem návrh rozpočtu prezentovaný členům výboru 2.1.2017
+  * Ondřej: vytvoří prvotní návrh projektu registr smluv pro příští rok
+  * Ondřej, Viktor, Michal: podepsat a odeslat smlouvu o výkonu funkce na adresu sídla spolku
+  * Laďa, Ondřej, Viktor, Michal: do 26.12.2016 vykázat v Redmine práci tak, aby se dala proplatit
+  * Laďa: převede doménu
+  * Marcel: předloží konkrétní návrh převedení finančních prostředků na spořící účet nebo termínovaný vklad
+3. způsob používání Redmine
+  * jak přesunout úkoly z projektu Otevřená města do podprojektu agenda
+  * podprojekt Rozklikávací rozpočet není veřejně viditelný
+  * aktivity
+4. výběrové řízení na vedení účetnictví
+  * https://gitlab.com/otevrenamesta/documents/tree/master/vyberova_rizeni/2017_01_10-vedeni_ucetnictvi
+5. průhledné veřejné zakázky od přípravy záměru až po skončení záruky (včetně registru smluv) dle návrhu Jiřího Skuhrovce
+  * http://www.otevrenamesta.cz/projekty/smlouvy/
+6. členská schůze 2017
+7. výběr členských příspěvků za rok 2017
+8. zapsání účasti na jednání výboru:
+  * 31.8.2016: https://ukoly.openalt.org/issues/3921
+  * 12.12.2016: https://ukoly.openalt.org/issues/3923
+  * 19.12.2016: https://ukoly.openalt.org/issues/3927
+  * 16.1.2017: http://ukoly.openalt.org/issues/3950
+  * 31.1.2017: http://ukoly.openalt.org/issues/3952
+
+přítomni:
+  * členové výboru:
+    - Marcel Kolaja
+    - Ondřej Profant
+    - Ladislav Nešněra
+  * hosté:
+    - Zbyněk Grepl
+
+zápis:
+1. provedená hlasování per rollam
+  * výběrové řízení na vedení účetnictví
+    - Usnesení:
+
+--snip
+
+Otevřená města vyhlašují prostřednictvím Výboru výběrové řízení na
+dodavatele služeb účetnictví.
+
+S vítězem výběrového řízení bude uzavřena smlouva na dobu neurčitou.
+Nabídky zasílejte emailem na adresu: vybor@otevrenamesta.cz
+Nabídky budou přijímány do 25. 1. 2017
+
+Náplň činnosti:
+
+* Kompletní zpracování a vedení účetnictví
+* Vedení a zpracování závazků a pohledávek
+* Vedení evidence drobného a dlouhodobého majetku (pokud nějaký budeme mít)
+* Zpracování postupů účtování (účetní osnova, účtování)
+* Zpracování daňových přiznání
+* Sestavení účetní závěrky
+* Příprava účetních podkladů pro audit a výroční zprávu
+* vedení účetnictví v softwaru Flexibee
+
+Veškerá činnost je prováděna ve spolupráci s Výborem zapsaného spolku
+Otevřená města nebo jim pověřenou osobou.
+Rozsah účetnictví pro rok 2017 a 2018 nepřesáhne průměrně 20 položek
+měsíčně. Transparentní účet spolku: https://www.fio.cz/ib2/transparent?a=2501020615
+
+Je potřeba kompletně vypracovat účetnictví (viz náplň činnosti) i za rok
+2016 s rozsahem do 30 položek za celý rok (viz účet).
+
+Požadavky na nabídky:
+Nabídněte poskytování služby vedení účetnictví.
+V nabídce uveďte způsob realizace a cenu za měsíc. Maximální nabídková cena
+je 5000Kč/měsíc včetně daní. Za dopracování roku 2016 počítáme s cenou ve
+výšši nabídkové ceny za 2 měsíce.
+
+V nabídce také uveďte:
+
+* Totožnost. Musíte uvést svoje jméno a pokud jde o firmu, musíte také
+uvést vlastníky, které lze ověřit z veřejných zdrojů. Zasláním nabídky
+souhlasíte se zveřejněním a zpracováním svých osobních údajů v souvislosti
+s výběrovým řízením.
+* Svobodná licence. Zasláním nabídky souhlasíte se zveřejněním všech
+příslušných smluv a všech děl uvedených v nabídce nebo vzniklých na základě
+a smluv. Souhlasíte s tím, že díla uvedená v nabídce i výsledná díla bude
+možné svobodně šířit za podmínek svobodné licence .
+* Souhlas s pravidly. Zasláním nabídky souhlasíte s těmito pravidly i
+zvláštními pravidly uvedenými u daného výběrového řízení. Souhlasíte s tím,
+že nemáte nárok na náhradu nákladů spojených s účastí ve výběrovém řízení
+ani na jiná finanční plnění z naší strany, není-li to výslovně uvedeno při
+vyhlášení výběrového řízení. Vyhrazujeme si právo změnit pravidla daného
+výběrového řízení. V takovém případě máte právo z výběrového řízení
+odstoupit.
+* Kvalifikace.
+    * Držení vázané živnosti na Činnost účetních poradců, vedení účetnictví
+a vedení daňové evidence
+    * Alespoň dvouletá praxe ve vedení učetnictví, kterou uchazeč doloží
+uvedením kontaktů na 3 referenční zákazníky (pro případné ověření)
+
+Pozn.: Právní forma dodavatele není relevantní
+
+
+Hodnocení nabídek
+
+* Hodnotícím kritériem je cena
+* Zadavatelem výběrového řízení je Výbor spolku, za které jedná ve věci
+Marcel Kolaja
+* Samostatným hodnotitelem je Marcel Kolaja.
+* Vítězná nabídka bude vybrána do 1. 2. 2017
+
+--snip
+
+    - probíhalo e-mailem od 4.1.2017 do 10.1.2017
+    - Pro: Marcel Kolaja, Ladislav Nešněra, Ondřej Profant, Viktor Čahoj
+    - Proti: nikdo
+    - Zdržel se: nikdo
+    - Nehlasoval: Michal Šmarda
+    - Usnesení bylo přijato.
+  * rozpočet na rok 2017
+    - Usnesení: "Výbor schvaluje rozpočet pro rok 2017: http://ukoly.openalt.org/attachments/download/1116/rozpocet.ods"
+    - probíhalo e-mailem od 8.1.2017 do 14.1.2017
+    - Pro: Marcel Kolaja, Ladislav Nešněra, Ondřej Profant, Viktor Čahoj
+    - Proti: nikdo
+    - Zdržel se: nikdo
+    - Nehlasoval: Michal Šmarda
+    - Usnesení bylo přijato.
+2. otevřené AI
+  * Laďa: dodání přístupu členům výboru do FlexiBee
+    - verze zdarma má jen jeden účet
+    - uzavřít
+  * Ondřej: pošle ke schválení výborem zadání výběrového řízení na účetní firmu
+    - proběhlo
+    - uzavřít
+  * Marcel: pošle ke schválení výborem návrh rozpočtu prezentovaný členům výboru 2.1.2017
+    - proběhlo
+    - uzavřít
+  * Ondřej: vytvoří prvotní návrh projektu registr smluv pro příští rok
+    - proběhlo
+    - uzavřít
+  * Ondřej, Viktor, Michal: podepsat a odeslat smlouvu o výkonu funkce na adresu sídla spolku
+    - https://gitlab.com/otevrenamesta/documents/blob/master/vzory/smlouva_o_vykonu_funkce.odt
+    - Ondřej provedl
+  * Laďa, Ondřej, Viktor, Michal: do 26.12.2016 vykázat v Redmine práci tak, aby se dala proplatit
+    - Ondřej vykázal vše, co požaduje proplatit
+    - Laďa vykáže o víkendu
+  * Laďa: převede doménu
+    - doména je pod kontrolou, ovšem nedošlo ještě k převedení vlastníka
+  * Marcel: předloží konkrétní návrh převedení finančních prostředků na spořící účet nebo termínovaný vklad
+    - neproběhlo
+3. způsob používání Redmine
+  * bod přeskočen
+4. výběrové řízení na vedení účetnictví
+  * https://gitlab.com/otevrenamesta/documents/tree/master/vyberova_rizeni/2017_01_10-vedeni_ucetnictvi
+  * Usnesení: "Výbor vybírá ve výběrovém řízení na vedení účetnictví vítězného uchazeče Petr Franěk a pověřuje Marcela Kolaju k výzvě vybraného uchazeče, aby předložil návrh smlouvy."
+  * pro: Marcel Kolaja, Ladislav Nešněra, Ondřej Profant
+  * proti: nikdo
+  * zdržel se hlasování: nikdo
+  * Usnesení bylo přijato.
+5. průhledné veřejné zakázky od přípravy záměru až po skončení záruky (včetně registru smluv) dle návrhu Jiřího Skuhrovce
+  * http://www.otevrenamesta.cz/projekty/smlouvy/
+  * BISON
+  * Laďa byl dnes na Vysočině. Aplikace je postavena jako evidence smluv. Aplikace je psána od roku 2013 v PHP. Projekt zaštiťuje BISON, jehož cíle se hodně překrývá se spolkem Otevřená města.
+  * Databáze je širší než státní registr smluv. Napojeno i na profil zadavatele. Využití datových schránek, což znamená limit 10 MiB na smlouvu.
+  * Dva skeny smluv: jedna pro vnitřní potřebu (bez anonymizace) a externí, která je anonymizovaná.
+  * Aplikace plně řeší zadání, které vytváří Otevřená města. Snad vyjma drobných záležitostí, např. milníky. Notifikace k určitým datům se v tuto chvíli programuje.
+  * Do 15 dnů by mělo být jasno, pod jakou licencí bude kód zveřejněn. V otázce licence komunikovat s Martinem Hadravou nebo Petrem Pavlincem.
+  * plán na následujících 14 dní
+  * Laďa pošle technické porovnání
+  * Laďa zůstane v kontaktu s BISONem
+  * Marcel bude kontaktovat BISON ohledně licencí
+6.--8. zbytek bodů byl pro nedostatek času odložen
