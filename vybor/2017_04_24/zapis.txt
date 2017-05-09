@@ -1,0 +1,21 @@
+agenda:
+1. zpráva o činnosti
+2. výzva k platbě členských příspěvků
+3. projekt rozklikávací rozpočet
+
+přítomni:
+  * členové výboru:
+    - Marcel Kolaja
+    - Ondřej Profant
+
+zápis:
+1. zpráva o činnosti
+2. výzva k platbě členských příspěvků
+3. projekt rozklikávací rozpočet
+  * umíme strojově zpracovat data z GINISu
+  * máme rozpočet, feedback: rychlý, lepší než konkurence
+  * finišujeme
+  * do měsíce tiskovka
+  * OM zaplatily server, doménu, Ondra dělal konverze
+  * spolupráce s MFČR
+  * možná budeme potřebovat administrativní sílu na částečný úvazek

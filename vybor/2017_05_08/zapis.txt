@@ -1,0 +1,64 @@
+agenda:
+1. vyjednávání o spolupráci se spolkem BISON
+2. zpráva výboru o činnosti
+3. výzva k platbě členských příspěvků
+4. výkaz činnosti v Redmine
+5. různé
+
+přítomni:
+  * členové výboru:
+    - Marcel Kolaja
+    - Ondřej Profant
+    - Ladislav Nešněra
+
+zápis:
+1. vyjednávání o spolupráci se spolkem BISON
+Návrh usnesení:
+
+--snip
+
+(i) Výbor se dohodl na následujícím postupu ohledně spolupráce se spolkem BISON:
+
+28.6.2017: deadline pro vyjednávání s BISONem, jehož výstupem musí být:
+* konkrétní návrh úzké spolupráce na registru smluv
+* odpovědi na otázky, které vydefinujeme v květnu
+
+Schůzka výboru a zástupců členů, kteří mají zájem dne 14.5.2017 večer nebo pozdní odpoledne, jejímž výstupem bude:
+* sada otázek pro BISON
+* dohoda na podmínkách OM vůči BISONu
+* dohoda na plánu B, pokud nedojde k dohodě s BISONem do deadline
+* dohoda na členské schůzi 29.6.2017
+
+Vedení jednání s BISONem:
+* Svatopluk Bartík, Ladislav Nešněra, Jiří Ulip
+* formálně vyzveme až po schůzce 14.5.2017
+* Svata bude do té doby neformálně v kontaktu s Michalem Šmardou
+
+(ii) Výbor pověřuje Svatopluka Bartíka vedením vyjednávání se spolkem BISON v rámci platného rozpočtu spolku Otevřená města.
+
+--snip
+
+Hlasování:
+    pro: Marcel Kolaja, Ondřej Profant, Ladislav Nešněra
+    proti: nikdo
+    zdržel se: nikdo
+
+Usnesení bylo přijato.
+
+2. zpráva výboru o činnosti
+Návrh usnesení:
+"Výbor schvaluje průběžnou zprávu o činnosti."
+
+Hlasování:
+    pro: Marcel Kolaja, Ondřej Profant, Ladislav Nešněra
+    proti: nikdo
+    zdržel se: nikdo
+
+3. výzva k platbě členských příspěvků
+* Laďa si bere na starosti
+
+4. výkaz činnosti v Redmine
+* členové vykáží činnost do konce dubna do 14.5.
+* následně proběhne vystavení výkazů a proplacení
+
+5. různé

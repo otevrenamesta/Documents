@@ -1,0 +1,97 @@
+agenda:
+
+1. provedená hlasování per rollam
+2. otevřené AI
+* Viktor, Michal: podepsat a odeslat smlouvu o výkonu funkce na adresu sídla spolku
+* Laďa: převede doménu
+* Marcel: předloží konkrétní návrh převedení finančních prostředků na spořící účet nebo termínovaný vklad
+* Marcel: vyzvat vítězného uchazeče na vedení účetnictví k předložení návrhu smlouvy
+* Laďa: poslat zainteresovaným technické porovnání aplikace registru smluv spolku BISON a zadání spolku Otevřená města
+* Marcel: kontaktovat BISON ohledně licencí registru smluv
+* budeme pokračovat v komunikaci
+
+3. způsob používání Redmine
+* jak přesunout úkoly z projektu Otevřená města do podprojektu agenda
+* podprojekt Rozklikávací rozpočet není veřejně viditelný
+* aktivity (režie vs. produkce)
+
+4. členská schůze 2017
+
+5. výběr členských příspěvků za rok 2017
+
+6. projekty navržené dříve např. Úřední deska P7 (nevidím ale popis v projektech - https://pad.openalt.org/om_projekty )
+
+7. vývoj spolupráce BISON + jejich registr smluv (RSB) resp. celá jejich platforma (PB).  "B" = "BISON"  ;)
+
+8. systém/pravidla pro proplácení/podporu konkrétních aktivit (např. vývoje)
+
+9. (Praha na Open Data Expu) + sdílení nákladů na úpravy
+
+10. zapsání účasti na jednání výboru:
+* 31.8.2016: https://ukoly.openalt.org/issues/3921
+* 12.12.2016: https://ukoly.openalt.org/issues/3923
+* 19.12.2016: https://ukoly.openalt.org/issues/3927
+* 16.1.2017: http://ukoly.openalt.org/issues/3950
+* 31.1.2017: http://ukoly.openalt.org/issues/3952
+* 14.2.2017: http://ukoly.openalt.org/issues/3956
+
+přítomni:
+
+  * členové výboru:
+    - Marcel Kolaja
+    - Ondřej Profant
+    - Ladislav Nešněra
+
+zápis:
+
+1. provedená hlasování per rollam
+* nic
+
+2. otevřené AI
+* Viktor, Michal: podepsat a odeslat smlouvu o výkonu funkce na adresu sídla spolku
+  - https://gitlab.com/otevrenamesta/documents/blob/master/vzory/smlouva_o_vykonu_funkce.odt
+  - Laďa, Viktor, Michal: do 26.12.2016 vykázat v Redmine práci tak, aby se dala proplatit
+  - Laďa: tento týden vykáže
+* Laďa: převede doménu
+  - zatím nepřevedeno
+* Marcel: předloží konkrétní návrh převedení finančních prostředků na spořící účet nebo termínovaný vklad
+  - odloženo
+* Marcel: vyzvat vítězného uchazeče na vedení účetnictví k předložení návrhu smlouvy
+  - provedeno a smlouva přeposlána na výbor
+  - Marcel i ostatní členové výboru pošlou připomínky k návrhu smlouvy a ty odešleme do konce týdne vítěznému kandidátovi
+* Laďa: poslat zainteresovaným technické porovnání aplikace registru smluv spolku BISON a zadání spolku Otevřená města
+  - provedeno
+* Marcel: kontaktovat BISON ohledně licencí registru smluv
+  - provedeno, zatím žádná odpověď
+* budeme pokračovat v komunikaci
+
+3. způsob používání Redmine
+* jak přesunout úkoly z projektu Otevřená města do podprojektu agenda
+  - AI: Laďa spraví
+* podprojekt Rozklikávací rozpočet není veřejně viditelný
+  - AI: Laďa spraví
+* aktivity (režie vs. produkce)
+
+4. členská schůze 2017
+* 2. polovina září
+
+5. výběr členských příspěvků za rok 2017
+* Lada se na to podívá
+
+6. projekty navržené dříve např. Úřední deska P7 (nevidím ale popis v projektech - https://pad.openalt.org/om_projekty )
+* zjistit, jaký je o to zájem mezi členy i v ostatních samosprávách
+* nějaká finanční participace OM možná za určitých podmínek
+
+7. vývoj spolupráce BISON + jejich registr smluv (RSB) resp. celá jejich platforma (PB).  "B" = "BISON"  ;)
+
+8. systém/pravidla pro proplácení/podporu konkrétních aktivit (např. vývoje)
+
+9. (Praha na Open Data Expu) + sdílení nákladů na úpravy
+
+10. zapsání účasti na jednání výboru:
+* 31.8.2016: https://ukoly.openalt.org/issues/3921
+* 12.12.2016: https://ukoly.openalt.org/issues/3923
+* 19.12.2016: https://ukoly.openalt.org/issues/3927
+* 16.1.2017: http://ukoly.openalt.org/issues/3950
+* 31.1.2017: http://ukoly.openalt.org/issues/3952
+* 14.2.2017: http://ukoly.openalt.org/issues/3956
