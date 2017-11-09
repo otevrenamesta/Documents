@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Pisemnost nazevSW="EPO MF ČR" verzeSW="39.24.5">
+<IRSRPO verzePis="02.02">
+<VetaD c_ufo_cil="461" k_uladis="IRS" dokument="RPO" />
+<VetaP rod_c="05129061" typ_ds="P" opr_postaveni="předseda" c_pracufo="3001" dic="05129061" zkrobchjm="Otevřená města, z. s." opr_jmeno="Marcel" opr_prijmeni="Kolaja" />
+<VetaR reg_zmena="R" naz_ufo="FÚ JIHOMORAVSKÝ KRAJ                         " pod_datum="20.09.2017" pod_misto="Brně                                            " drp_772="15.09.2017" c_ufo="461" drp_772_an="A" />
+<VetaS c_telef="607613161" email="franekpetr@email.cz" ico="05129061" obchjm="Otevřená města, z. s." />
+<VetaN poradi="1" />
+<VetaAS c_orient="3   " poradi="0" c_dom="624   " typ_adr="S" stat_kod="CZ" naz_ul="Malinovského náměstí" psc="60200     " c_obce="550973" id_xml="3" naz_obce="BRNO-STŘED" stat="ČESKÁ REPUBLIKA" />
+</IRSRPO>
+<Kontrola><Uzivatel jmeno="null" prijmeni="null" /><Soubor Delka="813" KC="3a8b40783bc419d00dcea927218b5915" Nazev="IRSRPO-0005129061-20171101-151213" c_ufo="461" /></Kontrola></Pisemnost>
