@@ -1,0 +1,24 @@
+agenda:
+1. spolupráce se spolkem BISON
+přítomni: Ondřej Profant (vzdáleně), Marcel Kolaja, Ladislav Nešněra, Michal Šmarda
+zápis:
+1. spolupráce se spolkem BISON
+Návrh usnesení:
+"1. Výbor schvaluje následující rámec vyjednávání se spolkem BISON:
+* Spolek BISON poskytne spolku OM přístup ke zdrojovým kódům (ideálně git) s tím, že spolek OM má možnost si pořizovat kopie a k datu 29.6.2018 se licence takto poskytnutého software stanovuje na GNU GPLv3 nebo vyšší.
+* Spolek OM nabízí financování vývoje (rozvoje), implementace, dokumentace, školení do výše stanovené rozpočtem spolku OM.
+* Spolek OM a jeho členové dávají připomínky k software, navrhují funkcionalitu.
+* Spolek BISON má kontrolu nad zařazováním kódu do software.
+
+2. Výbor stanovuje lhůtu pro vyjednání konečných podmínek spolupráce se spolkem BISON do 28.6.2017.
+
+3. Výbor na základě výsledku vyjednávání se spolkem BISON předloží návrh usnesení členské schůze na řádné členské schůzi 29.6.2017."
+
+Hlasování:
+* pro: Ondřej Profant, Marcel Kolaja, Ladislav Nešněra, Michal Šmarda
+* proti: nikdo
+* zdržel se: nikdo
+
+Dotazy na BISON:
+* spolek BISON majetková práva na aplikaci? může určit licenci?
+* je možná testovací instance? na infrastruktuře OM?
