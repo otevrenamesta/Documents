@@ -1,0 +1,85 @@
+﻿agenda:
+1. provedená hlasování per rollam\
+2. otevřené AI
+Viktor, Michal: podepsat a odeslat smlouvu o výkonu funkce na adresu sídla spolku
+Laďa: převede doménu
+Marcel: předloží konkrétní návrh převedení finančních prostředků na spořící účet nebo termínovaný vklad
+3. účetní závěrka
+4. registrace k daním
+5. účetní doklady k platbě za doménu cityvizor.cz
+6. vyjednávání o spolupráci se spolkem BISON
+7. zpráva výboru o činnosti
+8. výzva k platbě členských příspěvků
+9. výkaz činnosti v Redmine
+10. členská schůze 29.6.2017
+rozeslána výzva k návrhu bodů programu, zatím žádný návrh
+13.6.2017 (ani o den dříve ani později) musí být odeslána oficální pozvánka na konferenci
+11. účast zástupců JMK (Vladimír Klimeš + nový vedoucí ICT) na schůzi
+12. registr smluv v NMnM
+13. konto Bariéry
+14. zapsání účasti na jednání výboru:
+31.8.2016: https://ukoly.openalt.org/issues/3921
+12.12.2016: https://ukoly.openalt.org/issues/3923
+19.12.2016: https://ukoly.openalt.org/issues/3927
+16.1.2017: http://ukoly.openalt.org/issues/3950
+31.1.2017: http://ukoly.openalt.org/issues/3952
+13.2.2017: http://ukoly.openalt.org/issues/3956
+27.2.2017: http://ukoly.openalt.org/issues/3972
+24.4.2017: http://ukoly.openalt.org/issues/3970
+8.5.2017: http://ukoly.openalt.org/issues/3966
+14.5.2017: http://ukoly.openalt.org/issues/3991
+19.6.2017: http://ukoly.openalt.org/issues/3993
+15. různé
+
+přítomni: Marcel Kolaja, Ladislav Nešněra, Ondřej Profant
+
+zápis: 
+1. provedená hlasování per rollam\
+žádná
+2. otevřené AI
+Viktor, Michal: podepsat a odeslat smlouvu o výkonu funkce na adresu sídla spolku
+Laďa: převede doménu
+zatím neprovedeno
+Marcel: předloží konkrétní návrh převedení finančních prostředků na spořící účet nebo termínovaný vklad
+on hold
+3. účetní závěrka
+AI: Marcel vyhlásí hlasování per rollam
+4. registrace k daním
+https://adisdis.mfcr.cz/adistc/adis/idpr_pub/auth/LoginPage.faces
+AI: Marcel se zeptá účetního
+5. účetní doklady k platbě za doménu cityvizor.cz
+AI: Laďa najde
+6. vyjednávání o spolupráci se spolkem BISON
+pokračuje
+AI: Ondřej připraví návrh usnesení členské schůze
+7. zpráva výboru o činnosti
+odeslána
+8. výzva k platbě členských příspěvků
+odešleme po členské schůzi
+9. výkaz činnosti v Redmine
+všichni: vykázat!
+10. členská schůze 29.6.2017
+rozeslána výzva k návrhu bodů programu, žádný návrh
+13.6.2017 byla odeslána oficální pozvánka na konferenci
+afterparty?
+11. účast zástupců JMK (Vladimír Klimeš + nový vedoucí ICT) na schůzi
+AI: Laďa vyřídí
+AI: Marcel pozve zástupce BISONa
+12. registr smluv v NMnM
+Lada byl na schůzce ohledně užívání evidence smluv v NMnM
+zpětná vazba na evidenci smluv z NMnM pozitivní
+13. konto Bariéry
+AI: Marcel pozve na členskou schůzi
+14. zapsání účasti na jednání výboru:
+31.8.2016: https://ukoly.openalt.org/issues/3921
+12.12.2016: https://ukoly.openalt.org/issues/3923
+19.12.2016: https://ukoly.openalt.org/issues/3927
+16.1.2017: http://ukoly.openalt.org/issues/3950
+31.1.2017: http://ukoly.openalt.org/issues/3952
+13.2.2017: http://ukoly.openalt.org/issues/3956
+27.2.2017: http://ukoly.openalt.org/issues/3972
+24.4.2017: http://ukoly.openalt.org/issues/3970
+8.5.2017: http://ukoly.openalt.org/issues/3966
+14.5.2017: http://ukoly.openalt.org/issues/3991
+19.6.2017: http://ukoly.openalt.org/issues/3993
+15. různé
